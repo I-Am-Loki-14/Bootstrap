@@ -1,0 +1,14 @@
+.bg-coffee{
+    background-color: rgba(67, 67, 233, 0.471) !important;
+}
+.carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: calc(100vh - 80px);
+   
+}
+.carousel-caption{
+    position: absolute;
+    
+    bottom:16.5rem ;
+}
